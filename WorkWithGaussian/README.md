@@ -1,7 +1,7 @@
 ## Description
 This folder shows some scripts to work with Gaussian job file
 
-When you need use one of them, just put that file to the folder and double click it
+When you need to use one, just put the file in that folder and double click it.
 
 Good luck~
 
